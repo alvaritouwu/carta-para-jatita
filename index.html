@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="gaby-diseño.css">
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <title>calta pa waby</title>
+</head>
+<body>
+
+     <header>
+         <h1>
+            Ola waby
+         </h1>
+
+         <div class="h-wab">
+            <h2>
+                esta eh una carta pa que aceptes mi invitacion para salir y hablar jeje, solo leela toda porfa
+            </h2>
+         </div>
+        
+     </header>
+    
+            <div class="img-cat">
+              
+            </div>
+
+       <main>
+
+    <nav>
+        <div class="cont-nav">
+            <a href="si.html"> si quiero</a>
+            <a href="no.html">nop, jodete gey</a>
+        </div>
+       
+    </nav>
+
+       </main>
+
+       <footer>
+          <div>
+              <p>
+                pagina hecha pa waby por jose rapalino
+              </p>
+          </div>
+       </footer>
+
+
+
+</body>
+</html>
